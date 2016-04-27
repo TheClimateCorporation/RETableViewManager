@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
   s.homepage    = 'https://github.com/romaonthego/RETableViewManager'
   s.summary     = 'Powerful data driven content manager for UITableView.'
-  s.source      = { :git => 'https://github.com/romaonthego/RETableViewManager.git',
+  s.source      = { :git => 'https://github.com/TheClimateCorporation/RETableViewManager.git',
                     :tag => s.version.to_s }
   s.license     = { :type => "MIT", :file => "LICENSE" }
 
