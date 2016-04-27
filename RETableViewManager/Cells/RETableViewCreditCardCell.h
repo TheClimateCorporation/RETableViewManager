@@ -23,7 +23,7 @@
 // THE SOFTWARE.
 //
 
-#import <REFormattedNumberField/REFormattedNumberField.h>
+@import REFormattedNumberField;
 #import "RETableViewCell.h"
 #import "RECreditCardItem.h"
 
